@@ -1,0 +1,18 @@
+{
+  "name": "@danbys/toml-config",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@danbys"
+  },
+  "dependencies": {
+    "toml": "^3.0.0"
+  }
+}
